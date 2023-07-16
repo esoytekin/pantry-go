@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-const pantryID = "edab71ed-482a-4cc6-a57b-a86acc86742f"
+const pantryID = "<pantryID>"
 
 type Product struct {
 	ID    int
